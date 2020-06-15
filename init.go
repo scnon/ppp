@@ -2,7 +2,7 @@ package ppp
 
 import (
 	"fmt"
-	"github.com/panjjo/ppp/db"
+	"github.com/lzs-casher/ppp/db"
 	"github.com/sirupsen/logrus"
 	"runtime"
 	"strings"

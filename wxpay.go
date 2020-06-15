@@ -1,7 +1,7 @@
 package ppp
 
 import (
-	proto "github.com/panjjo/ppp/proto"
+	proto "github.com/lzs-casher/ppp/proto"
 )
 
 

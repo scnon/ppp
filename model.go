@@ -7,7 +7,7 @@ import (
 	"github.com/spf13/viper"
 	"strings"
 
-	"github.com/panjjo/ppp/db"
+	"github.com/lzs-casher/ppp/db"
 )
 
 // Status 类型int
