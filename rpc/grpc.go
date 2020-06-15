@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/panjjo/ppp"
-	proto "github.com/panjjo/ppp/proto"
+	"github.com/lzs-cacher/ppp"
+	proto "github.com/lzs-cacher/ppp/proto"
 	"github.com/sirupsen/logrus"
 	"gogs.yunss.com/go/k8s"
 	"google.golang.org/grpc"
