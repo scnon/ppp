@@ -1,4 +1,4 @@
-module github.com/panjjo/ppp
+module github.com/lzs-casher/ppp
 
 go 1.13
 
