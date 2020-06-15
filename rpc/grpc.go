@@ -5,7 +5,7 @@ import (
 	"github.com/lzs-cacher/ppp"
 	proto "github.com/lzs-cacher/ppp/proto"
 	"github.com/sirupsen/logrus"
-	"gogs.yunss.com/go/k8s"
+	"glt.hui.one/go/k8s"
 	"google.golang.org/grpc"
 	"net"
 )
