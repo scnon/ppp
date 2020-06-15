@@ -9,7 +9,7 @@ require (
 	github.com/golang/protobuf v1.4.2
 	github.com/hprose/hprose-golang v2.0.4+incompatible // indirect
 	github.com/mitchellh/mapstructure v1.3.2 // indirect
-	github.com/panjjo/log4go v0.0.0-20161217074253-5bde1464d311 // indirect
+	github.com/lzs-casher/log4go v0.0.0-20161217074253-5bde1464d311 // indirect
 	github.com/pelletier/go-toml v1.8.0 // indirect
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/afero v1.2.2 // indirect
