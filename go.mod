@@ -10,7 +10,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/viper v1.6.2
 	go.uber.org/zap v1.14.1 // indirect
-	gogs.yunss.com/go/k8s v0.0.0-20191115021454-06a7ca2c753e
+	glt.hui.one/go/k8s latest
 	golang.org/x/crypto v0.0.0-20190510104115-cbcb75029529
 	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
 	google.golang.org/grpc v1.28.0
