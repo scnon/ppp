@@ -11,7 +11,7 @@ var ctx *ppp.Context
 
 func main() {
 
-	config := ppp.LoadConfig("/Users/panjjo/work/go/src/ppp/config.yml")
+	config := ppp.LoadConfig("/Users/HuiOnePos/work/go/src/ppp/config.yml")
 	ppp.NewLogger(config.Sys.LogLevel)
 	ppp.NewDBPool(&config.DB)
 
