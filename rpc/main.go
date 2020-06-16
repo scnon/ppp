@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/lzs-cacher/ppp"
+	"github.com/HuiOnePos/ppp"
 	"github.com/sirupsen/logrus"
 )
 

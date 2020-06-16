@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/lzs-cacher/ppp"
-	proto "github.com/lzs-cacher/ppp/proto"
+	"github.com/HuiOnePos/ppp"
+	proto "github.com/HuiOnePos/ppp/proto"
 	"github.com/sirupsen/logrus"
 	"glt.hui.one/go/k8s"
 	"google.golang.org/grpc"

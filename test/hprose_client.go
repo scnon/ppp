@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	ppp "github.com/lzs-cacher/ppp/proto"
+	ppp "github.com/HuiOnePos/ppp/proto"
 	"google.golang.org/grpc"
 	"log"
 )

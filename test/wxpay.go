@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lzs-cacher/ppp"
+	"github.com/HuiOnePos/ppp"
 )
 
 var wxpay *ppp.WXPay

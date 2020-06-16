@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/lzs-cacher/ppp"
+	"github.com/HuiOnePos/ppp"
 )
 
 var alipay *ppp.AliPay
