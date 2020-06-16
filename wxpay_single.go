@@ -5,7 +5,7 @@ import (
 	"crypto/tls"
 	"encoding/xml"
 	"fmt"
-	proto "github.com/lzs-casher/ppp/proto"
+	proto "github.com/HuiOnePos/ppp/proto"
 	"github.com/sirupsen/logrus"
 	"net/http"
 	"path/filepath"

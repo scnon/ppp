@@ -4,7 +4,7 @@ import (
 	"crypto/rsa"
 	"crypto/tls"
 	"github.com/sirupsen/logrus"
-	proto "github.com/lzs-casher/ppp/proto"
+	proto "github.com/HuiOnePos/ppp/proto"
 	"time"
 )
 

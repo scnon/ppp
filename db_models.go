@@ -1,7 +1,7 @@
 package ppp
 
 import (
-	proto "github.com/lzs-casher/ppp/proto"
+	proto "github.com/HuiOnePos/ppp/proto"
 )
 
 const (
