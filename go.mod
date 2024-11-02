@@ -19,7 +19,7 @@ require (
 	github.com/spf13/viper v1.7.0
 	github.com/ugorji/go v1.1.4 // indirect
 	github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77 // indirect
-	glt.hui.one/go/k8s v0.0.0-20200416103530-864dd1c31c73
+	glt.hui.one/shanshou/k8s v0.0.0-20200416103530-864dd1c31c73
 	go.uber.org/zap v1.14.1 // indirect
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
 	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
