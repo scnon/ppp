@@ -1,4 +1,4 @@
-module github.com/HuiOnePos/ppp
+module github.com/scnon/ppp
 
 go 1.13
 
